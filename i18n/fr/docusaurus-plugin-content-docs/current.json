@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Fabric SPB concept": {
+    "message": "Fabric SPB concept",
+    "description": "The label for category Fabric SPB concept in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Infrastructure with GNS3": {
+    "message": "Infrastructure with GNS3",
+    "description": "The label for category Infrastructure with GNS3 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Fabric infrastructure": {
+    "message": "Fabric infrastructure",
+    "description": "The label for category Fabric infrastructure in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Fabric services": {
+    "message": "Fabric services",
+    "description": "The label for category Fabric services in sidebar tutorialSidebar"
+  }
+}
