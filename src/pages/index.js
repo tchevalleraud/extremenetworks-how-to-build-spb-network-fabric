@@ -5,6 +5,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+
 import Translate from "@docusaurus/core/lib/client/exports/Translate";
 
 function HomepageHeader() {
@@ -18,7 +19,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            <Translate>Tutorial</Translate>
+              <Translate id="homepage.hero.tutorial">Tutorial</Translate>
           </Link>
         </div>
       </div>

@@ -221,5 +221,23 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "Easy to use": {
+    "message": "Facile à utiliser"
+  },
+  "SPB network fabric was designed from the ground up to be easily installed and used to get your infrastructure up and running quickly.": {
+    "message": "La structure réseau SPB a été conçue dès le départ pour être facilement installée et utilisée pour que votre infrastructure soit opérationnelle rapidement."
+  },
+  "Focus on What Matters": {
+    "message": "Concentrez-vous sur ce qui compte"
+  },
+  "SPB network fabric lets you focus on your services, and the infrastructure does the rest.": {
+    "message": "La structure réseau SPB vous permet de vous concentrer sur vos services, et l'infrastructure fait le reste."
+  },
+  "Powered by SPB": {
+    "message": "Propulsé par SPB"
+  },
+  "A single protocol for a simplified use of the infrastructure, allowing all topologies without limitation.": {
+    "message": "Un protocole unique pour une utilisation simplifiée de l'infrastructure, permettant toutes les topologies sans limitation."
   }
 }

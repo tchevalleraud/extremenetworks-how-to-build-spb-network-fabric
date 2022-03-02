@@ -221,5 +221,23 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "Easy to use": {
+    "message": "Easy to use"
+  },
+  "SPB network fabric was designed from the ground up to be easily installed and used to get your infrastructure up and running quickly.": {
+    "message": "SPB network fabric was designed from the ground up to be easily installed and used to get your infrastructure up and running quickly."
+  },
+  "Focus on What Matters": {
+    "message": "Focus on What Matters"
+  },
+  "SPB network fabric lets you focus on your services, and the infrastructure does the rest.": {
+    "message": "SPB network fabric lets you focus on your services, and the infrastructure does the rest."
+  },
+  "Powered by SPB": {
+    "message": "Powered by SPB"
+  },
+  "A single protocol for a simplified use of the infrastructure, allowing all topologies without limitation.": {
+    "message": "A single protocol for a simplified use of the infrastructure, allowing all topologies without limitation."
   }
 }

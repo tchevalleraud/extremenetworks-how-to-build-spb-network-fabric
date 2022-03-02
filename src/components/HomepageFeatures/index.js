@@ -2,32 +2,34 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 
+import Translate, {translate} from '@docusaurus/Translate';
+
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: <Translate>Easy to use</Translate>,
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
-      <>
+      <Translate>
         SPB network fabric was designed from the ground up to be easily installed and used to get your infrastructure up and running quickly.
-      </>
+      </Translate>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: <Translate>Focus on What Matters</Translate>,
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
-      <>
+      <Translate>
         SPB network fabric lets you focus on your services, and the infrastructure does the rest.
-      </>
+      </Translate>
     ),
   },
   {
-    title: 'Powered by SPB',
+    title: <Translate>Powered by SPB</Translate>,
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
-      <>
+      <Translate>
           A single protocol for a simplified use of the infrastructure, allowing all topologies without limitation.
-      </>
+      </Translate>
     ),
   },
 ];
