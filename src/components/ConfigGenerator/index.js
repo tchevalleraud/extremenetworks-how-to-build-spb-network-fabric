@@ -59,7 +59,7 @@ export default function ConfigGenerator() {
                         Node site :
                     </strong>
                 </label>
-                <input type="text" onChange={siteChange} value="00"/>
+                <input type="text" onChange={siteChange} placeholder="00"/>
             </p>
             <p>
                 <label>
@@ -67,7 +67,7 @@ export default function ConfigGenerator() {
                         Node ID :
                     </strong>
                 </label>
-                <input type="text" onChange={nodeChange} value="00"/>
+                <input type="text" onChange={nodeChange} placeholder="00"/>
             </p>
             <p><button onClick={updateConfig}>Generate configuration</button></p>
 
